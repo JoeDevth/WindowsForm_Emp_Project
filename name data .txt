@@ -1,0 +1,9 @@
+dataGridViewEmployees
+LoadData
+txtEmployeeID
+txtName
+txtSalary
+btnAdd
+btnEdit
+btnDelete
+btnShowAll
